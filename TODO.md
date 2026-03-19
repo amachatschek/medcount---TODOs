@@ -4,5 +4,5 @@
 
 
 
-### Inbox - Abstrakte pläne
+### Inbox - Abstrakte Pläne
 - Med. Einnahme-Reminder per E-Mail/Notif.? 
