@@ -1,7 +1,7 @@
 # TODOs - medcount
 
-- Menu Klasse umschreiben, sodass alle Optionen 
-- Highlighter ändern, list_entries hässlich
+- Menu Klasse umschreiben, sodass alle Optionen im Konstruktor übergeben werden
+- Highlighter ändern -> list_entries 
 
 
 
