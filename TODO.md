@@ -1,6 +1,6 @@
 # medcount - TODOs
 
-- Menu Klasse umschreiben, sodass alle Optionen
+- Menu Klasse umschreiben, sodass alle Optionen 
 - Highlighter ändern, list_entries hässlich
 
 
